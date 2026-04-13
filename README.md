@@ -388,3 +388,5 @@ NadeLauncher is free and always will be. If it saves you time or helps you hit t
 ## License
 
 This software is provided as-is for personal use. Source code is not publicly available.
+
+NadeLauncher is distributed as a compiled binary under the MIT license exception granted by CounterStrikeSharp's GPL v3 license. See [CounterStrikeSharp's license](https://github.com/roflmuffin/CounterStrikeSharp/blob/main/LICENSE) for details.
