@@ -1,7 +1,7 @@
 # NadeLauncher
 
 > A CS2 server plugin for practicing grenade lineups — save, browse, and share.
-> Made by [QQundalf](https://steamcommunity.com/id/der-sanit-ter/)
+> Made by [QQundalf](https://steamcommunity.com/id/der-sanit-ter/) — if you enjoy it, [buy me a coffee ☕](https://ko-fi.com/qqundalf)
 
 **NadeLauncher** is a [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) plugin that lets players save grenade positions with full metadata (throw type, strength, movement path), browse lineups per map, and share lineups with friends. Works entirely offline — no account or external service required.
 
@@ -378,6 +378,12 @@ NadeLauncher is built on top of the following open-source projects. Without thei
 - **[Metamod:Source](https://www.sourcemm.net)** by AlliedModders — the engine-level plugin loader that CounterStrikeSharp runs on top of.
 
 ---
+
+## Support
+
+NadeLauncher is free and always will be. If it saves you time or helps you hit those lineups, a coffee is always appreciated!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/qqundalf)
 
 ## License
 
