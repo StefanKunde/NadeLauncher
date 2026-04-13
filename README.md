@@ -93,7 +93,7 @@ Don't have a CS2 dedicated server? Download **NadeLauncher-Server.zip** — a se
 
 | Package | Description |
 |---|---|
-| [**NadeLauncher-Server.zip**](NadeLauncher-Server.zip) | One-click installer: sets up CS2 server + Metamod + CounterStrikeSharp + plugin automatically |
+| [**NadeLauncher-Server.zip**](../../releases/latest) | One-click installer: sets up CS2 server + Metamod + CounterStrikeSharp + plugin automatically |
 
 **What's inside:**
 
