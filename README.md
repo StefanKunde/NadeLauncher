@@ -40,6 +40,7 @@
 - **Browse lineups** per map with in-game menus, filterable by grenade type
 - **Stack multiple lineups** on the same position — throw them one after another
 - **Ghost replay** — press E on a lineup marker, then E again to start the replay. Automatically replays the movement path, crosshair position and grenade throw
+- **Spawn markers** to practice pixel perfect lineups from every spawn position. 
 - **Import / export lineups** as ZIP files to share with friends
 - **Open server mode** — leave `OwnerSteamIds` empty to give all players full access
 
