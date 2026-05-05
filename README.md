@@ -202,7 +202,6 @@ All commands work with both `!` and `.` prefix (e.g. `!save` or `.save`).
 | `!save [name]` | `!s` | Owner | Save your current position and view angles as a lineup. After running the command, throw the grenade — the plugin records the full throw automatically. Optionally provide a name. |
 | `!savelast [name]` | `!sl` | Owner | Save the last grenade you threw as a lineup. Useful if you forgot to run `!save` beforehand. Captures everything from the most recent throw. |
 | `!desc <text>` | — | Owner | Add a description to the last saved lineup. |
-| `!lineups` | — | All | Open the lineup browser menu for the current map. Navigate pages with the in-game menu. |
 | `!filter [type]` | `!f` | All | Filter the lineup menu by grenade type. Valid values: `smoke`, `flash`, `molotov`, `he`, `all`. |
 
 ---
