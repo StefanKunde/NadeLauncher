@@ -368,6 +368,8 @@ Run **`setup-network.bat`** to automate the firewall setup and display all avail
 - Restart the server after importing — lineups are loaded at startup
 - Make sure the import script reported "X lineups added" and not errors
 
+**Server is not starting**
+- Make sure to close faceit anti cheat before starting the server
 ---
 
 ## Credits & Acknowledgements
