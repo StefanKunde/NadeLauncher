@@ -213,7 +213,7 @@ All commands work with both `!` and `.` prefix (e.g. `!save` or `.save`).
 | `!goto <id>` | — | All | Teleport to a lineup by its ID. The ID is shown in the lineup browser. |
 | `!pos` | — | All | Print your current position and view angles to chat. Useful for manual reference. |
 | `!back` | — | All | Teleport back to the position where you last threw a grenade. |
-| `!rethrow` | `!r` | All | Re-teleport to the last lineup you visited. Has a 1-second cooldown. |
+| `!rethrow` | `!r` | All | Rethrows your last thrown nade. |
 
 ---
 
